@@ -1,0 +1,1 @@
+export const DashboardImage = require("./image/dashboard.jpg")
